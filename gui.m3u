@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS: FILMES/SERIES",Telecine Premium
+http://89.46.101.200:8081/live/master19/chunks.m3u8?nimblesessionid=3398713&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggNDoyNzo0OSBQTSZoYXNoX3ZhbHVlPW9SeVFnZXBNVSs1TG1vbGRERDVCT3c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS: FILMES/SERIES",Telecine Pipoca
+http://89.46.101.200:8081/live/master18/chunks.m3u8?nimblesessionid=3399088&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggNDozMzoyNCBQTSZoYXNoX3ZhbHVlPXNROHJUUG00YUtGU1YyZFBqRkVqWEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS: FILMES/SERIES",Telecine Fun
+http://185.210.216.145:8081/live/44_2/chunks.m3u8?nimblesessionid=328843&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggNDozNDo1NCBQTSZoYXNoX3ZhbHVlPUtRTDJkUGxKbUNJQzhPUUtReWdQeHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="CANAIS: DOCUMENTARIOS",Animal Planet
+http://89.46.101.200:8081/live/30/chunks.m3u8?nimblesessionid=3403424&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggNTo1OToyOCBQTSZoYXNoX3ZhbHVlPXl0U2NKMkw5YUdzQUV6WlprdzdXSUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
